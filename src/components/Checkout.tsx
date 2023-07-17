@@ -71,7 +71,7 @@ const Checkout = ({ totalPrice }: Props) => {
               className="bg-red-800 w-12 h-8 p-2 cursor-pointer flex justify-center items-center rounded-l"
               onClick={() => applyDiscount()}
             >
-              <img src="public/svg/tick.svg" alt="tick icon" />
+              <img src="/svg/tick.svg" alt="tick icon" />
             </button>
           </div>
         </div>
