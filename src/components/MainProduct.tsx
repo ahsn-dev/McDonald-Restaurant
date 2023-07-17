@@ -28,7 +28,7 @@ function MainProduct({ setBillTotalPrice }: Props) {
       id: 0,
       name: "همبرگر مخصوص",
       price: 10000,
-      src: "public/images/hamburger.png",
+      src: "./public/images/hamburger.png",
       counterQuantity: 0,
     },
     {
