@@ -28,7 +28,7 @@ function MainProduct({ setBillTotalPrice }: Props) {
       id: 0,
       name: "همبرگر مخصوص",
       price: 10000,
-      src: "./public/images/hamburger.png",
+      src: "https://github.com/ahsn-dev/McDonald-Restaurant/blob/7318a0269465bae0fc4aab5df86383007534f184/public/images/hamburger.png",
       counterQuantity: 0,
     },
     {
